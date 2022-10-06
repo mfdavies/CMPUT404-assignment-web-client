@@ -18,3 +18,6 @@ examples thus some of the code is Copyright © 2001-2013 Python
 Software Foundation; All Rights Reserved under the PSF license (GPL
 compatible) http://docs.python.org/2/library/socketserver.html
 
+Updated by Matthew Davies with the help of the following sources:
+1. https://stackoverflow.com/questions/30833409/python-deleting-the-first-2-lines-of-a-string
+2. The CMPUT 404 Slidedeck
